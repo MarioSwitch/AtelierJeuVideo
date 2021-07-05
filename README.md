@@ -1,2 +1,2 @@
-# AtelierJeuVideo
-Toutes les informations concernant mon profil et mes jeux de *L'atelier du jeu vidéo*.
+# Information
+Tous les documents se trouvent dans l'onglet **Wiki** de cette page.
